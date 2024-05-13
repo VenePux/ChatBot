@@ -9,7 +9,7 @@
 
 # Block_2---------------------------------------
 import telebot;
-bot = telebot.TeleBot('6516439272:AAFoxmaw2i_suQyFruKXbnKCW1hEIrlWWUY'); #Токен бота
+bot = telebot.TeleBot('Your token here'); #Telegram bot token from BotFather
 from telebot import types
 from deep_translator import GoogleTranslator
 import g4f
